@@ -2,5 +2,22 @@ body {
     font-size: 22px;
 }
 
+h1, h2 {
+    color: blue;
+}
+/*a comma is necessaryy for grouping selectors, otherwise the declaration doesn't work.*/ 
 p { color: blueviolet;
+}
+
+.highlight {
+    text-transform: uppercase;
+    background-color: gold;
+}
+
+.grey {
+    color: grey;
+}
+
+#second{
+    font-style: italic;
 }
