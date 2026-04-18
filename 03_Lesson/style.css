@@ -1,11 +1,11 @@
 body {
-    font-size: 22px;
-    font-family: Arial, Helvetica, sans-serif;
-    line-height: 1.5;
-    background: #c59565; 
-    color:darkcyan;
+  font-size: 22px;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.5;
+  background: #f8c38d;
+  color: rgb(8, 126, 126);
 }
 
 p {
-    color: #146d74fb;
+  color: #127d85fb;
 }
